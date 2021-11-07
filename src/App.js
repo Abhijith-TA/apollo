@@ -1,4 +1,4 @@
-import './App.css';
+
 import ExchangeRates from './ExcahngeRates';
 
 function App() {
